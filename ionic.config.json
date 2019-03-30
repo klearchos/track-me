@@ -1,5 +1,7 @@
 {
   "name": "track-me",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
