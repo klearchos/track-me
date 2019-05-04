@@ -1,3 +1,4 @@
+![Google Maps Logo](https://www.google.com/maps/about/images/home/home-maps-icon.svg?mmfb=de7ec406c933d20ac2caf9114c2434a9 "Google Maps Logo")
 # TrackMe
 ## Track several mobile devices and mark them on Google Maps
 
