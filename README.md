@@ -4,4 +4,4 @@
 This project is using ionic framework and Apache Cordova in order to deploy 
 the same codebase into several different devices (iOS, Android and Browser)
 
-A step by step tutorial can be found here..... 
+A step by step tutorial can be found at the [https://my-notes.dev/track-me-mobile-application-client-side/](https://my-notes.dev/track-me-mobile-application-client-side/). 
